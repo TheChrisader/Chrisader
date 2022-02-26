@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Ikeotuonye Christopher.
-#### Android App Developer, UI/UX Developer and maker for social good!
+## Ikeotuonye Christopher.
+#### Full Stack Web Developer.
 
 
  ### What I'm doing: 
