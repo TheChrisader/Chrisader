@@ -1,18 +1,13 @@
-# Chrisader
-## Hi there 👋, I'm Sabiha Shaik!
+## Hi there 👋, I'm Ikeotuonye Christopher.
 #### Android App Developer, UI/UX Developer and maker for social good!
 
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working on WeConnect, an android app as a personal project 
+- 🔭 I’m currently working on Jumble, an web app.
 - 🌱 I’m currently learning Kotlin, Accessibility for Mobile Apps, Jira and Discrete Math! 
 - 👯 I’m looking to collaborate on Android apps and conference events 
-- 📫 How to reach me: sabiha.shaik121@gmail.com 
-- ⚡ Fun fact: I'm a Gold Microsoft Learn Student Ambassador. Love spreading knowledge and teaching others! I also believe accessibility should always be built in and not bolted in! 
-
-### Upcoming Events 🌐
-- 🏆 I've been recently been selected as the finalist for 'IT Graduate of the Year' Award by Women Tech, Vote [here](https://www.womentech.net/nominee/Sabiha/Shaik/46664)
+- 📫 How to reach me: IykeChris@gmail.com 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +23,3 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sabihashaik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://sabiha.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabiha-shaik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sabiha_shaik_)  
  
 -----
-Credits: [Sabiha Shaik](https://github.com/Sabihashaik)
-
-Last Edited on: 30/11/2020
