@@ -4,10 +4,10 @@
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working on Jumble, an web app.
-- 🌱 I’m currently learning Kotlin, Accessibility for Mobile Apps, Jira and Discrete Math! 
-- 👯 I’m looking to collaborate on Android apps and conference events 
-- 📫 How to reach me: IykeChris@gmail.com 
+- 🔭 I’m currently working on Jumble, a Web Application for efficient task tracking, and "Loss Stop", an online Forex Trading Journal.
+- 🌱 I’m currently learning Docker and containerisation, Accessibility for Web Apps, and JIRA.
+- 👯 I’m looking to collaborate on building scalable Web applications. 
+- 📫 You can reach me: IykeChris@gmail.com 
 
 
 <h3 align="left">Languages and Tools:</h3>
