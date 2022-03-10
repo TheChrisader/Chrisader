@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h6> Languages </h6>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+<p align="left"> ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 
 ### Stats
