@@ -12,6 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h6> Languages </h6>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Expressjs](https://img.shields.io/badge/-Express.js-787878?style=flat-square&logo=Express.js)
