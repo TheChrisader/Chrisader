@@ -4,8 +4,8 @@
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working on Jumble, a Web Application for efficient task tracking, and "Trail", an online Forex Trading Journal.
-- 🌱 I’m currently learning Docker and containerisation, Accessibility for Web Apps, and JIRA.
+- 🔭 I’m currently working on Jumble, a Dream Tracking Web Application, and Trail, an online Forex Trading Journal.
+- 🌱 I’m currently learning SQL, Postgresql, Amazon Web Services, Docker and containerisation, Accessibility for Web Apps, and JIRA-based workflow.
 - 👯 I’m looking to collaborate on building scalable Web applications. 
 - 📫 You can reach me: IykeChris@gmail.com 
 
