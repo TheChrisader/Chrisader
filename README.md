@@ -4,10 +4,10 @@
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working on Jumble, a Dream Tracking Web Application, and Trail, an online Forex Trading Journal.
-- 🌱 I’m currently learning SQL, Postgresql, Amazon Web Services, Docker and containerisation, Accessibility for Web Apps, and JIRA-based workflow.
-- 👯 I’m looking to collaborate on building scalable Web applications. 
-- 📫 You can reach me: IykeChris@gmail.com 
+- 🔭 I’m currently working on Jumble, a Task Management Web Application, and Trail, an online Forex Trading Journal.
+- 🌱 I’m currently planning to learn SQL, Postgresql, Amazon Web Services, Docker and containerisation, Accessibility for Web Apps, and JIRA-based workflow.
+- 👯 I’m looking to collaborate on building complex Web applications. 
+- 📫 You can reach me: IkeoChristopher99@Gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,8 +26,5 @@
 ![Git](http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code)
- 
-### Reach me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheChrisader)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ikeotuonye-christopher/)
  
 -----
